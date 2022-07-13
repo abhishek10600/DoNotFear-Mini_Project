@@ -1,0 +1,28 @@
+.headerLeft{
+    color: #47EB2A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:50vw;
+}
+#text_1{
+    color:#4D7A26;
+}
+
+#headerImg{
+    width:50vw;
+}
+
+.Posts{
+    background-color: #DAF7C4;
+    width:100%;
+}
+.darkGreen{
+    color:#4D7A26;
+}
+.lightGreen{
+    color: #47EB2A;
+}
+.postBtn{
+    background-color: #4D7A26;
+}
